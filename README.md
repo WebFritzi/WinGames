@@ -12,7 +12,7 @@ When you run WinGames from within [GUI64](https://github.com/WebFritzi/GUI64) (c
 
 # Screenshots
 
-* Solitaire
+### Solitaire
 
 ![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Solitaire.png)
 
