@@ -1,4 +1,4 @@
-![alt text](https://github.com/WebFritzi/WinGames/blob/main/WinGames.png)
+![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/WinGames.png)
 
 # WinGames
 WinGames is a collection of three popular casual games on early Windows systems:
@@ -12,8 +12,8 @@ When you run WinGames from within [GUI64](https://github.com/WebFritzi/GUI64) (c
 
 Here are a few screenshots of the games.
 
-![alt text](https://github.com/WebFritzi/WinGames/blob/main/Solitaire.png)
+![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Solitaire.png)
 
-![alt text](https://github.com/WebFritzi/WinGames/blob/main/Freecell.png)
+![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Freecell.png)
 
-![alt text](https://github.com/WebFritzi/WinGames/blob/main/Minesweeper.png)
+![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Minesweeper.png)
