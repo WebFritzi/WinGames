@@ -10,7 +10,7 @@ These can be accessed through a Win95-lookalike desktop with a start button and 
 
 When you run WinGames from within [GUI64](https://github.com/WebFritzi/GUI64) (cartridge-version) and choose "Shutdown" in the WinGames start menu, you get right back to the GUI64 desktop.
 
-Here are a few screenshots of the games.
+## Screenshots
 
 ![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Solitaire.png)
 
