@@ -16,4 +16,4 @@ When you run WinGames from within [GUI64](https://github.com/WebFritzi/GUI64) (c
 
 ![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Freecell.png)
 
-![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/Minesweeper.png)
+![alt text](https://github.com/WebFritzi/WinGames/blob/main/Pics/MinesweeperAll.png)
